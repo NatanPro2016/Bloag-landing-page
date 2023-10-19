@@ -1,4 +1,4 @@
 # Bloag-landing-page
 challenge from frontendmentor.io 
 
-beautigfull landing page for content createing website responsve desigh with html, css and vanila javascript
+beautiful landing page for content creating website responsive design with html, css and vanila javascript
